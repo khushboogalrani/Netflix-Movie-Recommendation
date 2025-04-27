@@ -93,7 +93,6 @@ Datasets are publicly available and can be downloaded from:
 - 🔍 **Multi-model exploration**: Text similarity, clustering, graph embeddings, and collaborative filtering.
 - 🛠️ **Applied Machine Learning**: End-to-end feature engineering, model training, and evaluation.
 - ✍️ **Clear modular design**: Each method implemented in its own notebook for clarity and ease of extension.
-- 🚀 **Production-aware mindset**: Built to resemble the building blocks of scalable recommender systems.
 
 ---
 
