@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.env/
+
+# Ignore all large datasets
+data/
+*.csv
+*.txt
+
+# Model and embedding files
+*.pkl
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NOTE: Dataset sources are provided in README:
+# Netflix Prize Data: https://www.kaggle.com/netflix-inc/netflix-prize-data
+# Netflix Movies and TV Shows: https://www.kaggle.com/shivamb/netflix-shows
